@@ -1,0 +1,9 @@
+set1=set()
+set2={"ABC",7,"DEFG",9.5,9}
+print(set1)
+print(set2)
+print(set2.add(9.6))
+print(set2.add("XYZ"))
+print(set2.remove(7))
+print(set2.clear())
+print(set2)
